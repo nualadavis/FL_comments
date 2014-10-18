@@ -15,7 +15,8 @@ The params held in myStateSettings are best derived by plotting the chart first,
 You can read about GoogleVis and R here:
 http://cran.r-project.org/web/packages/googleVis/index.html  
 
-I also found these helpful
+I also found these helpful  
+
 https://code.google.com/p/google-motion-charts-with-r/
 https://developers.google.com/chart/interactive/docs/gallery/motionchart#Motion_Chart_initial_state
 
